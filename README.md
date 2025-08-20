@@ -1,4 +1,5 @@
 # apnacollege-demo
+
 this is my first git repository
 <br>
-Auther- Suraj Ghadage
+Auther- Suraj Ganpat Ghadage
